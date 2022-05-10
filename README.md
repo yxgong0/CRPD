@@ -31,4 +31,4 @@ The first eight numbers represent the coordinates of the bounding quadrilateral 
     }
 
 
-The code will be avaliable when the corresponding paper is published.
+The code will be avaliable after the corresponding paper is published.
