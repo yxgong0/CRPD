@@ -2,9 +2,9 @@
 
 Download links:
 
-- CRPD-all (Google Drive, [Baidu Netdisk](https://pan.baidu.com/s/10k-XL1aIqrd3AOYyAKEadQ?pwd=9ph3), Code:9ph3) (This file contents all the following three files.)
+- CRPD-all ([Google Drive](https://drive.google.com/file/d/1IVWwG2LcdwaaD5rJXL-VEQgI3xozoHR7/view), [Baidu Netdisk](https://pan.baidu.com/s/10k-XL1aIqrd3AOYyAKEadQ?pwd=9ph3), Code:9ph3) (This file contents all the following three files.)
 
-  - CRPD-single (Google Drive, [Baidu Netdisk](https://pan.baidu.com/s/1s0-GKFFBmKg57YMtNuUHYg?pwd=9fyz), Code:9fyz)
+  - CRPD-single ([Google Drive](https://drive.google.com/file/d/1IBBHlg4VXXYSzq6TJR5S-6i_hTyh-6dD/view?usp=sharing), [Baidu Netdisk](https://pan.baidu.com/s/1s0-GKFFBmKg57YMtNuUHYg?pwd=9fyz), Code:9fyz)
   - CRPD-double ([Google Drive](https://drive.google.com/file/d/14zZ8FG0dnjzAO84Rl4v76GuhYN22bY4C/view?usp=sharing), [Baidu Netdisk](https://pan.baidu.com/s/1O2TVQcUBEe8l-kze5iegNQ?qq-pf-to=pcqq.c2c), Code:1234)
   - CRPD-multi ([Google Drive](https://drive.google.com/file/d/1Ud1QB-y9kXCWf1J9pegpMUnW5wkPgvis/view?usp=sharing), [Baidu Netdisk](https://pan.baidu.com/s/1zbms6sLC0_rw45M1mmXIQg?qq-pf-to=pcqq.c2c), Code:1234)
 
